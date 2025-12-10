@@ -78,6 +78,5 @@ Cardputer 键盘右下角的符号键被映射为方向控制：
 背景与输入处理逻辑参考了：  
 https://github.com/Treblewolf/M5Cardputer-Sun-Rider
 
-此 README 适合直接作为 GitHub 项目的首页说明。
 
 ---
